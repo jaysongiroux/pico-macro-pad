@@ -4,7 +4,7 @@ Make a macro-pad using a Raspberry pi pico and circuit python
 
 # 3x3
 <img src="git_assets/macro-pad.jpg" alt="macro-pad" width="300">
-___
+
 
 ## 1. Wiring Diagram
 ![wiring](git_assets/wiring.jpg)
@@ -37,7 +37,6 @@ Make a macropad that supports multiple pages of macros along with the support of
 
 <img src="git_assets/macro-pad-screen.jpg" alt="macro-pad" width="300">
 
-___
 
 ## Purchase Electronics
 - [Rubber Feet](https://www.amazon.com/dp/B06XCLYL53?psc=1&ref=ppx_yo2ov_dt_b_product_details)
